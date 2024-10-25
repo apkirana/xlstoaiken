@@ -1,0 +1,18 @@
+Out of these statements, which one is a proposition?
+    A. Bring me a milk shake.
+    B. May you be blessed!
+    C. What time is it now?
+    D. Only two is an odd prime number.
+    E. All answers are wrong
+ANSWER: D
+
+Let P: I am in Malang.; Q: Malang is clean.; then q ^ p(q and p) is?
+    A. Malang is clean and I am in Malang
+    B. Malang is not clean or I am in Malang
+    C.  I am in Malang and Malang is not clean
+    D. Malang is clean but I am in Surabaya
+    E. All answers are wrong
+ANSWER: A
+
+Let P: This is a great city, Q: You should not come back here. Then ‘This is a great city and you should come back here.’ is best represented by?
+    A. ~P V ~Q
